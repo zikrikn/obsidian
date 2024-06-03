@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Untitled 1 Tested.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "333cde271790a208",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Untitled 1 Tested.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Untitled 1 Tested.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled 1 Tested.md"
               }
             }
           },
@@ -157,9 +158,9 @@
   },
   "active": "997b387c5400ea1f",
   "lastOpenFiles": [
+    "README.md",
     "Untitled 1 Tested.md",
     "learning-english/Untitled.md",
-    "README.md",
     "makes-my-own-personal-web/Untitled.md",
     "learning-english/Grammar Stuff.md",
     "makes-my-own-personal-web",
