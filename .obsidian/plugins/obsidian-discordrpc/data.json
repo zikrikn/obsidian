@@ -1,0 +1,10 @@
+{
+  "showVaultName": true,
+  "showCurrentFileName": false,
+  "showPopups": true,
+  "customVaultName": "better journeys",
+  "showFileExtension": true,
+  "useLoadedTime": true,
+  "connectOnStart": true,
+  "autoHideStatusBar": true
+}

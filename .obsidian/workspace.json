@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66b214560ee17a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1 Tested.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "997b387c5400ea1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "makes-my-own-personal-web/Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1 Tested.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1 Tested.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1 Tested.md"
+                "file": "README.md"
               }
             }
           },
@@ -167,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "739a93a7712c0f2f",
+  "active": "997b387c5400ea1f",
   "lastOpenFiles": [
-    "makes-my-own-personal-web/Untitled.md",
+    "Untitled 1 Tested.md",
     "learning-english/Untitled.md",
     "README.md",
-    "Untitled 1 Tested.md",
+    "makes-my-own-personal-web/Untitled.md",
     "learning-english/Grammar Stuff.md",
     "makes-my-own-personal-web",
     "learning-english",

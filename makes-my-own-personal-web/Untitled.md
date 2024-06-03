@@ -1,0 +1,1 @@
+ini adalah percobaan untuk sync dalam waktu 30 minutes
