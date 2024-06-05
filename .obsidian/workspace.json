@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "333cde271790a208",
@@ -170,6 +169,7 @@
   },
   "active": "739a93a7712c0f2f",
   "lastOpenFiles": [
+    "LPDP-Preparation",
     "learning-english/progress-of-courses.md",
     "learning-english/notes.md",
     "images/learning-english/Pasted image 20240604145852.png",
