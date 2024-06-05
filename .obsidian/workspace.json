@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-english/progress-of-courses.md",
+                "file": "learning-english/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "333cde271790a208",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-english/progress-of-courses.md",
+                "file": "learning-english/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-english/progress-of-courses.md",
+                "file": "learning-english/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-english/progress-of-courses.md"
+                "file": "learning-english/notes.md"
               }
             }
           },
@@ -167,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39ce9a0b97732e67",
+  "active": "739a93a7712c0f2f",
   "lastOpenFiles": [
-    "images/learning-english/Pasted image 20240604145852.png",
     "learning-english/progress-of-courses.md",
+    "learning-english/notes.md",
+    "images/learning-english/Pasted image 20240604145852.png",
     "images/learning-english",
     "images",
     "personal-web-project/list of needs.md",
