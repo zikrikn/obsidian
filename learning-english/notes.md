@@ -1,7 +1,8 @@
 1. Belajar rutin setiap hari, satu waktu di konsistenkan
 2. Lokasi belajar harus kondusif 
 3. Manjakan diri sendiri 
-4. Stop cari tips jalan pintas mengerjakan ielts 5. Latihan, latihan, latihan
+4. Stop cari tips jalan pintas mengerjakan ielts 
+5. Latihan, latihan, latihan soal terus
 
 buka yang dipakai: 
  - cambridge guide to ielts
