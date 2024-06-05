@@ -4,7 +4,8 @@
 4. Stop cari tips jalan pintas mengerjakan ielts 5. Latihan, latihan, latihan
 
 buka yang dipakai: 
- - cambridge guide to ielts book for my preparation
+ - cambridge guide to ielts
+ - ielts academic 18
 
 cari juga tempat yang baik untuk belajar:
 1. bisa perpusatakaan
@@ -13,4 +14,4 @@ cari juga tempat yang baik untuk belajar:
 
 - belajar tenses lagi, fungsinya buat apa, contoh-contohnya. 
 - jangan memaksakan diri jika sudah terlalu cape
-- karena kadang buku fisik suka tidak terpakai jadi coba cari ebooks-nya saja.
+- karena kadang buku fisik suka tidak terpakai jadi coba cari e-books-nya saja.
