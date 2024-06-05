@@ -6,6 +6,7 @@
       {
         "id": "e0e9d5f3cddb794a",
         "type": "tabs",
+        "dimension": 64.64401294498381,
         "children": [
           {
             "id": "39ce9a0b97732e67",
@@ -16,7 +17,14 @@
                 "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a0b505cd5901796f",
+        "type": "tabs",
+        "dimension": 35.35598705501618,
+        "children": [
           {
             "id": "997b387c5400ea1f",
             "type": "leaf",
@@ -167,9 +175,11 @@
   },
   "active": "739a93a7712c0f2f",
   "lastOpenFiles": [
+    "learning-english/audio/18 section1-part1.mp3",
+    "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+    "learning-english/audio",
     "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
     "learning-english/e-books/Sách Cambridge 18.pdf",
-    "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
     "learning-english/notes.md",
     "learning-english/e-books",
     "7582-22513-2-PB.pdf",
@@ -184,7 +194,6 @@
     "Untitled 1 Tested.md",
     "learning-english/Grammar Stuff.md",
     "personal-web-project",
-    "learning-english",
     "hello/Untitled.md",
     "learning-english/README.md",
     "Welcome.md"
