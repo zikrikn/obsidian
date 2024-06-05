@@ -12,9 +12,11 @@
             "id": "39ce9a0b97732e67",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
+                "file": "learning-english/new-vocabulary-list.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+                "file": "learning-english/new-vocabulary-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+                "file": "learning-english/new-vocabulary-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
+                "file": "learning-english/new-vocabulary-list.md"
               }
             }
           },
@@ -173,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "739a93a7712c0f2f",
+  "active": "39ce9a0b97732e67",
   "lastOpenFiles": [
-    "learning-english/audio/18 section1-part1.mp3",
     "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+    "learning-english/audio/18 section1-part1.mp3",
     "learning-english/audio",
     "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
     "learning-english/e-books/Sách Cambridge 18.pdf",
