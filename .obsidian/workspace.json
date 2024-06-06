@@ -26,8 +26,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "55654200907b0d33",
@@ -45,8 +44,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e030ee25c3912d9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
+              }
             }
           },
           {
@@ -180,7 +194,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "37de83de340b3296",
+  "active": "0e030ee25c3912d9",
   "lastOpenFiles": [
     "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
     "learning-english/new-vocabulary-list.md",
