@@ -6,7 +6,7 @@
       {
         "id": "e0e9d5f3cddb794a",
         "type": "tabs",
-        "dimension": 62.13592233009708,
+        "dimension": 60.82051282051282,
         "children": [
           {
             "id": "39ce9a0b97732e67",
@@ -31,7 +31,7 @@
       {
         "id": "55654200907b0d33",
         "type": "tabs",
-        "dimension": 37.86407766990291,
+        "dimension": 39.179487179487175,
         "children": [
           {
             "id": "314ddd009f7916b3",
@@ -39,7 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-english/new-vocabulary-list.md",
+                "file": "learning-english/grammar-checking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bf8af4fc369035a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-english/grammar-checking.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+                "file": "learning-english/grammar-checking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+                "file": "learning-english/grammar-checking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
+                "file": "learning-english/grammar-checking.md"
               }
             }
           },
@@ -174,13 +185,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "a9a3d88971fdef43",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
+    "width": 261.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,16 +210,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "translate:Open translation view": false
+      "translate:Open translation view": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "0e030ee25c3912d9",
+  "active": "739a93a7712c0f2f",
   "lastOpenFiles": [
-    "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
-    "learning-english/new-vocabulary-list.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "learning-english/progress-of-courses.md",
+    "learning-english/grammar-checking.md",
     "learning-english/notes.md",
+    "learning-english/new-vocabulary-list.md",
+    "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+    "Untitled 1.md",
     "learning-english/e-books/Sách Cambridge 18.pdf",
     "learning-english/e-books/Link to the Audio.md",
     "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
@@ -211,7 +232,6 @@
     "learning-english/audio/Test 4 - original exams",
     "learning-english/audio/Test 3 - original exams/18 section3 part4.mp3",
     "learning-english/audio/Test 3 - original exams/18 section3 part3.mp3",
-    "learning-english/progress-of-courses.md",
     "images/learning-english/Pasted image 20240604145852.png",
     "personal-web-project/list of needs.md",
     "README.md",
