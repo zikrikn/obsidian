@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-english/grammar-checking.md",
+                "file": "learning-english/new-vocabulary-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-english/grammar-checking.md",
+                "file": "learning-english/new-vocabulary-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-english/grammar-checking.md",
+                "file": "learning-english/new-vocabulary-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-english/grammar-checking.md"
+                "file": "learning-english/new-vocabulary-list.md"
               }
             }
           },
@@ -214,13 +215,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "739a93a7712c0f2f",
+  "active": "0bf8af4fc369035a",
   "lastOpenFiles": [
-    "learning-english/progress-of-courses.md",
     "learning-english/grammar-checking.md",
-    "learning-english/notes.md",
     "learning-english/new-vocabulary-list.md",
     "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+    "learning-english/progress-of-courses.md",
+    "learning-english/notes.md",
     "Untitled 1.md",
     "learning-english/e-books/Sách Cambridge 18.pdf",
     "learning-english/e-books/Link to the Audio.md",

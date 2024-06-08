@@ -11,5 +11,6 @@ ciri-ciri suatu bacaan
 - Agency = action or intervention (is the action) producing
 - exertion = pengerahan tenaga
 - force = pemaksaan
+- assessing = evaluating 
 
 
