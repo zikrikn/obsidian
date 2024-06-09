@@ -26,9 +26,17 @@ x Continuous/Progressive, menjelaskan sesuatu yang sedang berlangsung
 - Past Continuous Tense, kejadian yang sedang berlangsung di masa lalu, biasanya untuk past continuous itu ada dua kejadian
 ![[Pasted image 20240609183631.png]]
 - Past Continuous vs Past Simple Tense
-- Future Continuous Tense
+Bedanya kalau past simple ya udah satu kejadian itu aja tapi kalau pas continuous biasanya ada hal yang berlangsung
+- Future Continuous Tense, menceritakan suatu kejadian yang sedang berlangsung di masa depan. Biasanya ada dua kejadian juga.
+![[Pasted image 20240609184728.png]]
 
-x Perfect Continuous 
-- Present Perfect Continuous Tense
-- Past Perfect Continuous Tense
-- Future Perfect Continuous Tense
+x Perfect Continuous, gabungan perfect and continuous, sesuatu yang terjadi, disertakan waktu durasi,
+- Present Perfect Continuous Tense, sedang melakukan sesuatu di masa lalu sampai titik sekarang, dan masih melakukannya sampai sekarang
+![[Pasted image 20240609184952.png]]
+- Past Perfect Continuous Tense, menceritakan yang sudah terjadi di masa lalu
+![[Pasted image 20240609185309.png]]
+- Future Perfect Continuous Tense, menjelaskan suatu aksi sedang berlangsung dan akan terus berlangsung ke suatu titik di masa datang
+![[Pasted image 20240609185623.png]]
+
+x The conditional tenses
+![[Pasted image 20240609190155.png]]
