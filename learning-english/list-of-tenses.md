@@ -20,9 +20,11 @@ I have lived in the Netherlands, kenapa bisa? karena statement itu sudah lampau 
 - Future Perfect, menceritakan suatu kejadian yang akan telah selesai di suatu titik di masa depan.
 ![[Pasted image 20240609080401.png]]
 
-x Continuous/Progressive
+x Continuous/Progressive, menjelaskan sesuatu yang sedang berlangsung
 - Present Continuous Tense
-- Past Continuous Tense
+![[Pasted image 20240609183600.png]]
+- Past Continuous Tense, kejadian yang sedang berlangsung di masa lalu, biasanya untuk past continuous itu ada dua kejadian
+![[Pasted image 20240609183631.png]]
 - Past Continuous vs Past Simple Tense
 - Future Continuous Tense
 
