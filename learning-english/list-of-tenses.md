@@ -23,4 +23,10 @@ I have lived in the Netherlands, kenapa bisa? karena statement itu sudah lampau 
 x Continuous/Progressive
 - Present Continuous Tense
 - Past Continuous Tense
-- Past Continu
+- Past Continuous vs Past Simple Tense
+- Future Continuous Tense
+
+x Perfect Continuous 
+- Present Perfect Continuous Tense
+- Past Perfect Continuous Tense
+- Future Perfect Continuous Tense
