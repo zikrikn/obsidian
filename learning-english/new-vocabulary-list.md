@@ -12,5 +12,7 @@ ciri-ciri suatu bacaan
 - exertion = pengerahan tenaga
 - force = pemaksaan
 - assessing = evaluating 
+- altitude = the high above sea level; high-altitude = designed for a use at a high altitude
+- occurring = exist/happen/take place
 
 
