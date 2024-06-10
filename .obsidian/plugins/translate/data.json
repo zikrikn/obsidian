@@ -81,11 +81,13 @@
       "version": "1.0.0"
     },
     "google_translate": {
-      "selected_languages": [],
+      "selected_languages": [
+        "en"
+      ],
       "api_key": "",
       "auto_translate": false,
       "auto_translate_interval": 500,
-      "validated": false,
+      "validated": null,
       "available_languages": [
         "af",
         "ak",
@@ -227,7 +229,9 @@
       "version": "1.1.0"
     },
     "azure_translator": {
-      "selected_languages": [],
+      "selected_languages": [
+        "en"
+      ],
       "api_key": "",
       "region": "",
       "host": null,

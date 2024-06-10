@@ -18,11 +18,11 @@ ciri-ciri suatu bacaan
 10/06/2024
 - put forward = diajukan
 - forward = maju
-- tannin
-- astringent
-- alkaline
-- oak gall
-- soluble
+- tannin = 
+- astringent = 
+- alkaline = 
+- oak gall = 
+- soluble = 
 
 
 
