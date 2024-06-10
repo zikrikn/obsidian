@@ -33,9 +33,11 @@
             "id": "0e030ee25c3912d9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "learning-english/e-books/Sách Cambridge 18.pdf"
+                "file": "learning-english/notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -90,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "333cde271790a208",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-english/e-books/Sách Cambridge 18.pdf",
+                "file": "learning-english/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-english/e-books/Sách Cambridge 18.pdf",
+                "file": "learning-english/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-english/e-books/Sách Cambridge 18.pdf"
+                "file": "learning-english/notes.md"
               }
             }
           },
@@ -189,9 +190,9 @@
   },
   "active": "0e030ee25c3912d9",
   "lastOpenFiles": [
+    "learning-english/e-books/Sách Cambridge 18.pdf",
     "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
     "learning-english/list-of-tenses.md",
-    "learning-english/e-books/Sách Cambridge 18.pdf",
     "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
     "learning-english/grammar-checking.md",
     "learning-english/new-vocabulary-list.md",
