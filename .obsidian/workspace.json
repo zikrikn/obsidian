@@ -6,6 +6,7 @@
       {
         "id": "e0e9d5f3cddb794a",
         "type": "tabs",
+        "dimension": 63.673139158576056,
         "children": [
           {
             "id": "39ce9a0b97732e67",
@@ -30,6 +31,16 @@
             }
           },
           {
+            "id": "8fde6cb81e5bef0f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "learning-english/e-books/Sách Cambridge 18.pdf"
+              }
+            }
+          },
+          {
             "id": "0e030ee25c3912d9",
             "type": "leaf",
             "state": {
@@ -43,6 +54,35 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "46acd920f1b048a9",
+        "type": "tabs",
+        "dimension": 36.326860841423944,
+        "children": [
+          {
+            "id": "a05990fed80227af",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
+              }
+            }
+          },
+          {
+            "id": "bc69bfc5bc9f653b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning-english/new-vocabulary-list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "333cde271790a208",
@@ -108,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-english/notes.md",
+                "file": "learning-english/e-books/Sách Cambridge 18.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-english/notes.md",
+                "file": "learning-english/e-books/Sách Cambridge 18.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-english/notes.md"
+                "file": "learning-english/e-books/Sách Cambridge 18.pdf"
               }
             }
           },
@@ -188,26 +229,26 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "0e030ee25c3912d9",
+  "active": "8fde6cb81e5bef0f",
   "lastOpenFiles": [
-    "learning-english/e-books/Sách Cambridge 18.pdf",
     "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+    "learning-english/new-vocabulary-list.md",
+    "learning-english/notes.md",
+    "Pasted image 20240609190155.png",
+    "Pasted image 20240609185623.png",
+    "Pasted image 20240609080401.png",
+    "Pasted image 20240609075709.png",
+    "Pasted image 20240609075410.png",
+    "Pasted image 20240609075225.png",
+    "Pasted image 20240609075156.png",
+    "Pasted image 20240609074129.png",
+    "learning-english/e-books/Sách Cambridge 18.pdf",
     "learning-english/list-of-tenses.md",
     "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
     "learning-english/grammar-checking.md",
-    "learning-english/new-vocabulary-list.md",
-    "Pasted image 20240609190155.png",
-    "Pasted image 20240609185623.png",
     "Pasted image 20240609185309.png",
     "Pasted image 20240609185240.png",
-    "Pasted image 20240609184952.png",
-    "Pasted image 20240609184728.png",
-    "Pasted image 20240609183631.png",
-    "Pasted image 20240609183600.png",
-    "Pasted image 20240609080401.png",
-    "Pasted image 20240609080149.png",
     "learning-english/progress-of-courses.md",
-    "learning-english/notes.md",
     "Untitled 1.md",
     "learning-english/e-books/Link to the Audio.md",
     "learning-english/audio/Test 4 - original exams/18 section4 part4.mp3",

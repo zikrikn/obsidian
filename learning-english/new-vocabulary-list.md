@@ -18,11 +18,12 @@ ciri-ciri suatu bacaan
 10/06/2024
 - put forward = diajukan
 - forward = maju
-- tannin = 
-- astringent = 
-- alkaline = 
-- oak gall = 
-- soluble = 
+- tannin = is a chemical found in certain plants
+- astringent = one of the meanings is taste or smell bitter, like a lemon
+- alkaline = bersifat basa. 
+Note in this IELTS English, its tough, not only you have discovered some new vocabs but also the answer is not explicitly
+- oak gall = gall is empedu, oak is salah satu jenis kayu, jadi kalau di-combine ini adalah empedu kayu ek
+- soluble = larut
 
 
 
