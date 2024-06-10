@@ -52,8 +52,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "46acd920f1b048a9",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning-english/e-books/Sách Cambridge 18.pdf",
+                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning-english/e-books/Sách Cambridge 18.pdf",
+                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning-english/e-books/Sách Cambridge 18.pdf"
+                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
               }
             }
           },
@@ -229,8 +228,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "8fde6cb81e5bef0f",
+  "active": "39ce9a0b97732e67",
   "lastOpenFiles": [
+    "learning-english/e-books/Sách Cambridge 18.pdf",
     "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
     "learning-english/new-vocabulary-list.md",
     "learning-english/notes.md",
@@ -242,7 +242,6 @@
     "Pasted image 20240609075225.png",
     "Pasted image 20240609075156.png",
     "Pasted image 20240609074129.png",
-    "learning-english/e-books/Sách Cambridge 18.pdf",
     "learning-english/list-of-tenses.md",
     "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
     "learning-english/grammar-checking.md",
