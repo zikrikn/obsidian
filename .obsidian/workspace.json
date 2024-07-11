@@ -31,6 +31,16 @@
             }
           },
           {
+            "id": "1d6024101c2c5045",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "10053780fedae653",
             "type": "leaf",
             "state": {
@@ -65,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "46acd920f1b048a9",
@@ -240,7 +250,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a45b8be599eaafa9",
+  "active": "1d6024101c2c5045",
   "lastOpenFiles": [
     "learning-english/list-of-tenses.md",
     "learning-english/new-vocabulary-list.md",
