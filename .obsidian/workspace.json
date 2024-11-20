@@ -15,7 +15,9 @@
               "type": "image",
               "state": {
                 "file": "Pasted image 20240609074129.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240609074129"
             }
           },
           {
@@ -27,7 +29,9 @@
                 "file": "learning-english/grammar-checking.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "grammar-checking"
             }
           },
           {
@@ -37,7 +41,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.5"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.5"
             }
           },
           {
@@ -49,7 +55,9 @@
                 "file": "learning-english/new-vocabulary-list.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "new-vocabulary-list"
             }
           },
           {
@@ -61,7 +69,21 @@
                 "file": "Protein.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Protein"
+            }
+          },
+          {
+            "id": "f5e5f2e14fa9b723",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -73,7 +95,9 @@
                 "file": "learning-english/list-of-tenses.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "list-of-tenses"
             }
           },
           {
@@ -83,7 +107,9 @@
               "type": "pdf",
               "state": {
                 "file": "learning-english/e-books/Sách Cambridge 18.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "Sách Cambridge 18"
             }
           },
           {
@@ -95,11 +121,13 @@
                 "file": "learning-english/notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "notes"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "46acd920f1b048a9",
@@ -113,7 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "Official.Cambridge.Guide.To.IELTS - Copy"
             }
           },
           {
@@ -125,7 +155,9 @@
                 "file": "learning-english/new-vocabulary-list.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "new-vocabulary-list"
             }
           }
         ]
@@ -148,7 +180,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -163,7 +197,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -171,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -194,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protein.md",
+                "file": "Pasted image 20240609074129.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +240,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20240609074129"
             }
           },
           {
@@ -211,10 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protein.md",
+                "file": "Pasted image 20240609074129.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20240609074129"
             }
           },
           {
@@ -225,7 +267,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -234,8 +278,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protein.md"
-              }
+                "file": "Pasted image 20240609074129.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20240609074129"
             }
           },
           {
@@ -243,7 +289,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -251,7 +299,9 @@
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
-              "state": {}
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dictionary"
             }
           }
         ],
@@ -274,7 +324,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "922b17c119cb822b",
+  "active": "f5e5f2e14fa9b723",
   "lastOpenFiles": [
     "learning-english/new-vocabulary-list.md",
     "Protein.md",
