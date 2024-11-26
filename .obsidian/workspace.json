@@ -87,6 +87,18 @@
             }
           },
           {
+            "id": "50f97b075acff9d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "10053780fedae653",
             "type": "leaf",
             "state": {
@@ -127,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "46acd920f1b048a9",
@@ -324,7 +336,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f5e5f2e14fa9b723",
+  "active": "50f97b075acff9d1",
   "lastOpenFiles": [
     "learning-english/new-vocabulary-list.md",
     "Protein.md",
