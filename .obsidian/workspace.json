@@ -6,7 +6,6 @@
       {
         "id": "6a4f50d761187b76",
         "type": "tabs",
-        "dimension": 48.8997555012225,
         "children": [
           {
             "id": "2c30d9d56a32ff41",
@@ -25,60 +24,19 @@
         ]
       },
       {
-        "id": "717118eee8761103",
+        "id": "71daae31d5baf31f",
         "type": "tabs",
-        "dimension": 25.550122249388757,
         "children": [
           {
-            "id": "3e778bdfce31a06c",
+            "id": "38b1af471bf3c22d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf"
+                "file": "My books list/oldmansea.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8c6c454c7ec167a1",
-        "type": "tabs",
-        "dimension": 25.550122249388757,
-        "children": [
-          {
-            "id": "f670b1feb2b873e3",
-            "type": "leaf",
-            "state": {
-              "type": "translator-view",
-              "state": {
-                "language_from": "en",
-                "language_to": "id",
-                "translation_service": "lingva_translate",
-                "auto_translate": false,
-                "apply_glossary": false,
-                "view_mode": 0,
-                "filter_mode": 0,
-                "show_attribution": false,
-                "top_buttons": [
-                  "change-service",
-                  "automatic-translation",
-                  "change-layout",
-                  "apply-filter",
-                  "open-settings"
-                ],
-                "left_buttons": [
-                  "paste",
-                  "clear"
-                ],
-                "right_buttons": [
-                  "copy"
-                ]
-              },
-              "icon": "lingva_translate",
-              "title": "Lingva Translate"
+              "title": "oldmansea"
             }
           }
         ]
@@ -199,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240609074129.png"
+                "file": "My books list/The Old Man and The Sea.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20240609074129"
+              "title": "Outline of The Old Man and The Sea"
             }
           },
           {
@@ -226,11 +184,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,22 +201,28 @@
       "command-palette:Open command palette": false,
       "translate:Open translation view": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f670b1feb2b873e3",
+  "active": "2c30d9d56a32ff41",
   "lastOpenFiles": [
-    "My books list/The Old Man and The Sea.md",
-    "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
     "My books list/oldmansea.pdf",
+    "My books list/The Old Man and The Sea.md",
+    "project-gemini-fine-tuned/Aplikasi Rekomendasi Wisata Untuk Disabilitas.md",
+    "learning-english/e-books/Link to the Audio.md",
+    "learning-english/progress-of-courses.md",
+    "learning-english/grammar-checking.md",
+    "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
     "learning-english/new-vocabulary-list.md",
     "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
     "My books list",
     "Protein.md",
     "learning-english/notes.md",
-    "learning-english/progress-of-courses.md",
     "learning-english/list-of-tenses.md",
-    "project-gemini-fine-tuned/Aplikasi Rekomendasi Wisata Untuk Disabilitas.md",
     "Pasted image 20240609074129.png",
     "project-gemini-fine-tuned",
     "learning-english/e-books/Sách Cambridge 18.pdf",
@@ -268,11 +233,9 @@
     "Pasted image 20240609075410.png",
     "Pasted image 20240609075225.png",
     "Pasted image 20240609075156.png",
-    "learning-english/grammar-checking.md",
     "Pasted image 20240609185309.png",
     "Pasted image 20240609185240.png",
     "Untitled 1.md",
-    "learning-english/e-books/Link to the Audio.md",
     "learning-english/audio/Test 4 - original exams/18 section4 part4.mp3",
     "learning-english/audio/Test 4 - original exams/18 section4 part3.mp3",
     "learning-english/audio/Test 4 - original exams/18 section4 part2.mp3",
