@@ -4,172 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "e0e9d5f3cddb794a",
+        "id": "6a4f50d761187b76",
         "type": "tabs",
-        "dimension": 58.54700854700855,
+        "dimension": 48.8997555012225,
         "children": [
           {
-            "id": "39ce9a0b97732e67",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240609074129.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240609074129"
-            }
-          },
-          {
-            "id": "a45b8be599eaafa9",
+            "id": "2c30d9d56a32ff41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning-english/grammar-checking.md",
+                "file": "My books list/The Old Man and The Sea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "grammar-checking"
-            }
-          },
-          {
-            "id": "1d6024101c2c5045",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.6.5"
-            }
-          },
-          {
-            "id": "c174cffe3bda7a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-english/new-vocabulary-list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "new-vocabulary-list"
-            }
-          },
-          {
-            "id": "922b17c119cb822b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protein.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protein"
-            }
-          },
-          {
-            "id": "f5e5f2e14fa9b723",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "50f97b075acff9d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "10053780fedae653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-english/list-of-tenses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "list-of-tenses"
-            }
-          },
-          {
-            "id": "8fde6cb81e5bef0f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "learning-english/e-books/Sách Cambridge 18.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Sách Cambridge 18"
-            }
-          },
-          {
-            "id": "0e030ee25c3912d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-english/notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes"
+              "title": "The Old Man and The Sea"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
-        "id": "46acd920f1b048a9",
+        "id": "717118eee8761103",
         "type": "tabs",
-        "dimension": 41.452991452991455,
+        "dimension": 25.550122249388757,
         "children": [
           {
-            "id": "a05990fed80227af",
+            "id": "3e778bdfce31a06c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf"
+                "file": "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Official.Cambridge.Guide.To.IELTS - Copy"
+              "title": "Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8c6c454c7ec167a1",
+        "type": "tabs",
+        "dimension": 25.550122249388757,
+        "children": [
           {
-            "id": "bc69bfc5bc9f653b",
+            "id": "f670b1feb2b873e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "translator-view",
               "state": {
-                "file": "learning-english/new-vocabulary-list.md",
-                "mode": "source",
-                "source": false
+                "language_from": "en",
+                "language_to": "id",
+                "translation_service": "lingva_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
               },
-              "icon": "lucide-file",
-              "title": "new-vocabulary-list"
+              "icon": "lingva_translate",
+              "title": "Lingva Translate"
             }
           }
         ]
@@ -317,12 +226,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,12 +241,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "translate:Open translation view": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50f97b075acff9d1",
+  "active": "f670b1feb2b873e3",
   "lastOpenFiles": [
+    "My books list/The Old Man and The Sea.md",
+    "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
+    "My books list/oldmansea.pdf",
     "learning-english/new-vocabulary-list.md",
+    "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
+    "My books list",
     "Protein.md",
     "learning-english/notes.md",
     "learning-english/progress-of-courses.md",
@@ -346,7 +260,6 @@
     "project-gemini-fine-tuned/Aplikasi Rekomendasi Wisata Untuk Disabilitas.md",
     "Pasted image 20240609074129.png",
     "project-gemini-fine-tuned",
-    "learning-english/e-books/Official.Cambridge.Guide.To.IELTS - Copy.pdf",
     "learning-english/e-books/Sách Cambridge 18.pdf",
     "Pasted image 20240609190155.png",
     "Pasted image 20240609185623.png",
@@ -355,7 +268,6 @@
     "Pasted image 20240609075410.png",
     "Pasted image 20240609075225.png",
     "Pasted image 20240609075156.png",
-    "learning-english/e-books/Cambridge-IELTS-18-General-Training-www.IELTSWorldly.com-Free.pdf",
     "learning-english/grammar-checking.md",
     "Pasted image 20240609185309.png",
     "Pasted image 20240609185240.png",
@@ -365,8 +277,6 @@
     "learning-english/audio/Test 4 - original exams/18 section4 part3.mp3",
     "learning-english/audio/Test 4 - original exams/18 section4 part2.mp3",
     "learning-english/audio/Test 4 - original exams/18 section4 part1.mp3",
-    "learning-english/audio/Test 4 - original exams",
-    "learning-english/audio/Test 3 - original exams/18 section3 part4.mp3",
     "personal-web-project/list of needs.md",
     "README.md",
     "Untitled 1 Tested.md",
