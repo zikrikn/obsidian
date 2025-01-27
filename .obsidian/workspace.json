@@ -6,6 +6,7 @@
       {
         "id": "6a4f50d761187b76",
         "type": "tabs",
+        "dimension": 32.11974110032362,
         "children": [
           {
             "id": "2c30d9d56a32ff41",
@@ -24,16 +25,21 @@
         ]
       },
       {
-        "id": "71daae31d5baf31f",
+        "id": "dfa505fb2f409707",
         "type": "tabs",
+        "dimension": 67.88025889967638,
         "children": [
           {
-            "id": "38b1af471bf3c22d",
+            "id": "7b76e0628d4620da",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "My books list/oldmansea.pdf"
+                "file": "My books list/oldmansea.pdf",
+                "page": 2,
+                "left": -15,
+                "top": 501,
+                "zoom": 0.9916501461644435
               },
               "icon": "lucide-file-text",
               "title": "oldmansea"
@@ -95,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "333cde271790a208",
@@ -169,8 +176,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -179,8 +186,8 @@
             "state": {
               "type": "dictionary-view",
               "state": {},
-              "icon": "quote-glyph",
-              "title": "Dictionary"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -199,19 +206,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "translate:Open translation view": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "2c30d9d56a32ff41",
   "lastOpenFiles": [
     "My books list/oldmansea.pdf",
     "My books list/The Old Man and The Sea.md",
+    "Excalidraw/Drawing 2025-01-28 00.16.15.excalidraw.md",
+    "Excalidraw",
     "project-gemini-fine-tuned/Aplikasi Rekomendasi Wisata Untuk Disabilitas.md",
     "learning-english/e-books/Link to the Audio.md",
     "learning-english/progress-of-courses.md",
@@ -239,7 +250,6 @@
     "learning-english/audio/Test 4 - original exams/18 section4 part4.mp3",
     "learning-english/audio/Test 4 - original exams/18 section4 part3.mp3",
     "learning-english/audio/Test 4 - original exams/18 section4 part2.mp3",
-    "learning-english/audio/Test 4 - original exams/18 section4 part1.mp3",
     "personal-web-project/list of needs.md",
     "README.md",
     "Untitled 1 Tested.md",
