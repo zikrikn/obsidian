@@ -28,13 +28,13 @@
     "copy"
   ],
   "hide_attribution_default": false,
-  "default_source_language": "auto",
+  "default_source_language": "en",
   "target_language_preference": "specific",
   "last_used_target_languages": [
     "id",
     "en"
   ],
-  "default_target_language": "en",
+  "default_target_language": "id",
   "filtered_services": [
     "lingva_translate"
   ],
@@ -383,7 +383,7 @@
         "id"
       ],
       "host": "translate.plausibility.cloud",
-      "auto_translate": false,
+      "auto_translate": true,
       "auto_translate_interval": 500,
       "validated": true,
       "available_languages": [

@@ -6,7 +6,7 @@
       {
         "id": "6a4f50d761187b76",
         "type": "tabs",
-        "dimension": 32.11974110032362,
+        "dimension": 21.844660194174757,
         "children": [
           {
             "id": "2c30d9d56a32ff41",
@@ -27,7 +27,7 @@
       {
         "id": "dfa505fb2f409707",
         "type": "tabs",
-        "dimension": 67.88025889967638,
+        "dimension": 55.016181229773466,
         "children": [
           {
             "id": "7b76e0628d4620da",
@@ -37,12 +37,52 @@
               "state": {
                 "file": "My books list/oldmansea.pdf",
                 "page": 2,
-                "left": -15,
-                "top": 501,
-                "zoom": 0.9916501461644435
+                "left": -19,
+                "top": 567,
+                "zoom": 0.7913040556432915
               },
               "icon": "lucide-file-text",
               "title": "oldmansea"
+            }
+          }
+        ]
+      },
+      {
+        "id": "adaa3f61cb3858f0",
+        "type": "tabs",
+        "dimension": 23.13915857605178,
+        "children": [
+          {
+            "id": "67ff624f3477d7df",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "en",
+                "language_to": "id",
+                "translation_service": "lingva_translate",
+                "auto_translate": true,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "lingva_translate",
+              "title": "Lingva Translate"
             }
           }
         ]

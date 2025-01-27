@@ -1,2 +1,5 @@
 - Skiff - ==Perahu kecil==
-
+- Now definitely and finally - Ini maksudnya "pasti banget"
+- harpoon - tombak
+- sail - layar
+- mast - tiang kapal
