@@ -35,11 +35,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "My books list/oldmansea.pdf",
-                "page": 2,
-                "left": -19,
-                "top": 532,
-                "zoom": 0.7913040556432916
+                "file": "My books list/oldmansea.pdf"
               },
               "icon": "lucide-file-text",
               "title": "oldmansea"
@@ -249,7 +245,6 @@
       "obsidian-git:Open Git source control": false,
       "translate:Open translation view": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
